@@ -5,3 +5,17 @@ git status de kiem tra trang thai co file nao update, delete, create...
 bat dau code cac chuc nang o cac nhanh khac nhau 
 
 sau khi hoan thanh bat dau push code
+
+git push origin main : la push code len main
+
+git push origin -u main : la push code len main nhung sau lan nay muon push code chi can go lenh: git push la duoc khong can ghi dai dong
+
+len github check commit, thay commit la da push duoc
+
+tuong tu muon code gi moi phai git pull roi moi code tiep task moi.
+
+go git status kiem tra thay khong gi thay doi o hien tai
+
+thay already update la da lay code moi nhat tu github ve do chua co code gi moi nen khong thay no hien code moi ve
+
+tuong tu neu lam chuc nang moi thi cu git add, commit, push
