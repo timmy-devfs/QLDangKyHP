@@ -1,0 +1,7 @@
+đầu tiên chạy git pull để lấy code mới về
+
+git status de kiem tra trang thai co file nao update, delete, create...
+
+bat dau code cac chuc nang o cac nhanh khac nhau 
+
+sau khi hoan thanh bat dau push code
